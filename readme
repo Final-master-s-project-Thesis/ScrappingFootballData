@@ -16,8 +16,8 @@ Antes de comenzar, asegúrate de tener instalado:
     Google Chrome
     Microsoft Edge
 - Web driver de tu navegador y que sea compatible:
-    Google Chrome - https://sites.google.com/chromium.org/driver/downloads?authuser=0
-    Microsoft Edge - https://developer.microsoft.com/es-es/microsoft-edge/tools/webdriver?form=MA13LH
+    Google Chrome - https://sites.google.com/chromium.org/driver/downloads
+    Microsoft Edge - https://developer.microsoft.com/es-es/microsoft-edge/tools/webdriver
 
 ## ⚙️ Instalación Paso a Paso
 
@@ -29,3 +29,10 @@ Asegurar tener Python y pip instaldo:
 Ejecutar el siguiente comando para instalar las dependencias del proyecto:
 
 - pip install -r requirements.txt
+
+## 📚 Documentación
+
+https://www.python.org/
+https://selenium-python.readthedocs.io/index.html
+https://sites.google.com/chromium.org/driver
+https://developer.microsoft.com/es-es/microsoft-edge/tools/webdriver
