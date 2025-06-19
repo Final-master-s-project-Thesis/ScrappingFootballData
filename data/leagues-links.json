@@ -1,0 +1,331 @@
+[
+    {
+        "id": 1,
+        "name": "Premier League",
+        "url": "https://www.transfermarkt.es/premier-league/startseite/wettbewerb/GB1",
+        "country": "England",
+        "division": 1
+    },
+    {
+        "id": 2,
+        "name": "Championship",
+        "url": "https://www.transfermarkt.es/championship/startseite/wettbewerb/GB2",
+        "country": "England",
+        "division": 2
+    },
+    {
+        "id": 3,
+        "name": "La Liga",
+        "url": "https://www.transfermarkt.es/laliga/startseite/wettbewerb/ES1",
+        "country": "Spain",
+        "division": 1
+    },
+    {
+        "id": 4,
+        "name": "La Liga Segunda división",
+        "url": "https://www.transfermarkt.es/segunda-division/startseite/wettbewerb/ES2",
+        "country": "Spain",
+        "division": 2
+    },
+    {
+        "id": 5,
+        "name": "Serie A",
+        "url": "https://www.transfermarkt.es/serie-a/startseite/wettbewerb/IT1",
+        "country": "Italy",
+        "division": 1
+    },
+    {
+        "id": 6,
+        "name": "Serie B",
+        "url": "https://www.transfermarkt.es/serie-b/startseite/wettbewerb/IT2",
+        "country": "Italy",
+        "division": 2
+    },
+    {
+        "id": 7,
+        "name": "Bundesliga",
+        "url": "https://www.transfermarkt.es/bundesliga/startseite/wettbewerb/L1",
+        "country": "Germany",
+        "division": 1
+    },
+    {
+        "id": 8,
+        "name": "2. Bundesliga",
+        "url": "https://www.transfermarkt.es/2-bundesliga/startseite/wettbewerb/L2",
+        "country": "Germany",
+        "division": 2
+    },
+    {
+        "id": 9,
+        "name": "Ligue 1",
+        "url": "https://www.transfermarkt.es/ligue-1/startseite/wettbewerb/FR1",
+        "country": "France",
+        "division": 1
+    },
+    {
+        "id": 10,
+        "name": "Ligue 2",
+        "url": "https://www.transfermarkt.es/ligue-2/startseite/wettbewerb/FR2",
+        "country": "France",
+        "division": 2
+    },
+    {
+        "id": 11,
+        "name": "Liga Portugal",
+        "url": "https://www.transfermarkt.es/liga-portugal/startseite/wettbewerb/PO1",
+        "country": "Portugal",
+        "division": 1
+    },
+    {
+        "id": 12,
+        "name": "Liga Portugal 2",
+        "url": "https://www.transfermarkt.es/liga-portugal/startseite/wettbewerb/PO2",
+        "country": "Portugal",
+        "division": 2
+    },
+    {
+        "id": 13,
+        "name": "Eredivisie",
+        "url": "https://www.transfermarkt.es/eredivisie/startseite/wettbewerb/NL1",
+        "country": "Netherlands",
+        "division": 1
+    },
+    {
+        "id": 14,
+        "name": "Eerste Divisie",
+        "url": "https://www.transfermarkt.es/eerste-divisie/startseite/wettbewerb/NL2",
+        "country": "Netherlands",
+        "division": 2
+    },
+    {
+        "id": 15,
+        "name": "Süper Lig",
+        "url": "https://www.transfermarkt.es/super-lig/startseite/wettbewerb/TR1",
+        "country": "Turkey",
+        "division": 1
+    },
+    {
+        "id": 16,
+        "name": "TFF 1. Lig",
+        "url": "https://www.transfermarkt.es/tff-1-lig/startseite/wettbewerb/TR2",
+        "country": "Turkey",
+        "division": 2
+    },
+    {
+        "id": 17,
+        "name": "Jupiler Pro League",
+        "url": "https://www.transfermarkt.es/jupiler-pro-league/startseite/wettbewerb/BE1",
+        "country": "Belgium",
+        "division": 1
+    },
+    {
+        "id": 18,
+        "name": "Challenger Pro League",
+        "url": "https://www.transfermarkt.es/challenger-pro-league/startseite/wettbewerb/BE2",
+        "country": "Belgium",
+        "division": 2
+    },
+    {
+        "id": 19,
+        "name": "Russian Premier League",
+        "url": "https://www.transfermarkt.es/russian-premier-league/startseite/wettbewerb/RU1",
+        "country": "Russia",
+        "division": 1
+    },
+    {
+        "id": 20,
+        "name": "Russian Football National League",
+        "url": "https://www.transfermarkt.es/russian-football-national-league/startseite/wettbewerb/RU2",
+        "country": "Russia",
+        "division": 2
+    },
+    {
+        "id": 21,
+        "name": "Super League 1",
+        "url": "https://www.transfermarkt.es/super-league-1/startseite/wettbewerb/GR1",
+        "country": "Greece",
+        "division": 1
+    },
+    {
+        "id": 22,
+        "name": "Super League 2",
+        "url": "https://www.transfermarkt.es/super-league-2/startseite/wettbewerb/GR2",
+        "country": "Greece",
+        "division": 2
+    },
+    {
+        "id": 23,
+        "name": "Super League",
+        "url": "https://www.transfermarkt.es/super-league/startseite/wettbewerb/C1",
+        "country": "Switzerland",
+        "division": 1
+    },
+    {
+        "id": 24,
+        "name": "Challenge League",
+        "url": "https://www.transfermarkt.es/challenge-league/startseite/wettbewerb/C2",
+        "country": "Switzerland",
+        "division": 2
+    },
+    {
+        "id": 25,
+        "name": "Austrian Football Bundesliga",
+        "url": "https://www.transfermarkt.es/austrian-football-bundesliga/startseite/wettbewerb/A1",
+        "country": "Austria",
+        "division": 1
+    },
+    {
+        "id": 26,
+        "name": "2. Liga",
+        "url": "https://www.transfermarkt.es/2-liga/startseite/wettbewerb/A2",
+        "country": "Austria",
+        "division": 2
+    },
+    {
+        "id": 27,
+        "name": "Premier de Ucraine",
+        "url": "https://www.transfermarkt.es/premier-de-ucrania/startseite/wettbewerb/UKR1",
+        "country": "Ukraine",
+        "division": 1
+    },
+    {
+        "id": 28,
+        "name": "Persha Liga",
+        "url": "https://www.transfermarkt.es/persha-liga/startseite/wettbewerb/UKR2",
+        "country": "Ukraine",
+        "division": 2
+    },
+    {
+        "id": 29,
+        "name": "Superliga",
+        "url": "https://www.transfermarkt.es/superliga/startseite/wettbewerb/DK1",
+        "country": "Denmark",
+        "division": 1
+    },
+    {
+        "id": 30,
+        "name": "1. Division",
+        "url": "https://www.transfermarkt.es/1-division/startseite/wettbewerb/DK2",
+        "country": "Denmark",
+        "division": 2
+    },
+    {
+        "id": 31,
+        "name": "Chance Liga",
+        "url": "https://www.transfermarkt.es/chance-liga/startseite/wettbewerb/TS1",
+        "country": "Czech Republic",
+        "division": 1
+    },
+    {
+        "id": 32,
+        "name": "Chance Narodni Liga",
+        "url": "https://www.transfermarkt.es/chance-narodni-liga/startseite/wettbewerb/TS2",
+        "country": "Czech Republic",
+        "division": 2
+    },
+    {
+        "id": 33,
+        "name": "Scottish Premiership",
+        "url": "https://www.transfermarkt.es/scottish-premiership/startseite/wettbewerb/S1",
+        "country": "Scotland",
+        "division": 1
+    },
+    {
+        "id": 34,
+        "name": "Scottish Championship",
+        "url": "https://www.transfermarkt.es/scottish-championship/startseite/wettbewerb/S2",
+        "country": "Scotland",
+        "division": 2
+    },
+    {
+        "id": 35,
+        "name": "Eliteserien",
+        "url": "https://www.transfermarkt.es/eliteserien/startseite/wettbewerb/NO1",
+        "country": "Norway",
+        "division": 1
+    },
+    {
+        "id": 36,
+        "name": "OBOS-ligaen",
+        "url": "https://www.transfermarkt.es/eliteserien/startseite/wettbewerb/NO2",
+        "country": "Norway",
+        "division": 2
+    },
+    {
+        "id": 37,
+        "name": "PKO BP Ekstraklasa",
+        "url": "https://www.transfermarkt.es/pko-bp-ekstraklasa/startseite/wettbewerb/PL1",
+        "country": "Poland",
+        "division": 1
+    },
+    {
+        "id": 38,
+        "name": "Betclic 1 Liga",
+        "url": "https://www.transfermarkt.es/pko-bp-ekstraklasa/startseite/wettbewerb/PL2",
+        "country": "Poland",
+        "division": 2
+    },
+    {
+        "id": 39,
+        "name": "J1 League",
+        "url": "https://www.transfermarkt.es/j1-league/startseite/wettbewerb/JAP1",
+        "country": "Japan",
+        "division": 1
+    },
+    {
+        "id": 40,
+        "name": "J2 League",
+        "url": "https://www.transfermarkt.es/j1-league/startseite/wettbewerb/JAP2",
+        "country": "Japan",
+        "division": 2
+    },
+    {
+        "id": 41,
+        "name": "MLS",
+        "url": "https://www.transfermarkt.es/major-league-soccer/startseite/wettbewerb/MLS1",
+        "country": "United States",
+        "division": 1
+    },
+    {
+        "id": 42,
+        "name": "Liga MX",
+        "url": "https://www.transfermarkt.es/liga-mx-apertura/startseite/wettbewerb/MEXA",
+        "country": "Mexico",
+        "division": 1
+    },
+    {
+        "id": 43,
+        "name": "Liga de Expansión MX",
+        "url": "https://www.transfermarkt.es/liga-de-expansion-mx-apertura/startseite/wettbewerb/MEXB",
+        "country": "Mexico",
+        "division": 2
+    },
+    {
+        "id": 44,
+        "name": "Campeonato Brasileiro Série A",
+        "url": "https://www.transfermarkt.es/campeonato-brasileiro-serie-a/startseite/wettbewerb/BRA1",
+        "country": "Brasil",
+        "division": 1
+    },
+    {
+        "id": 45,
+        "name": "Campeonato Brasileiro Série B",
+        "url": "https://www.transfermarkt.es/campeonato-brasileiro-serie-a/startseite/wettbewerb/BRA2",
+        "country": "Brasil",
+        "division": 2
+    },
+    {
+        "id": 46,
+        "name": "Torneo Apertura",
+        "url": "https://www.transfermarkt.es/torneo-apertura/startseite/wettbewerb/ARG1",
+        "country": "Argentina",
+        "division": 1
+    },
+    {
+        "id": 47,
+        "name": "Primera Nacional",
+        "url": "https://www.transfermarkt.es/torneo-apertura/startseite/wettbewerb/ARG2",
+        "country": "Agentina",
+        "division": 2
+    }
+]
