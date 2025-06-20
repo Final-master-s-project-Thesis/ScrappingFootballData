@@ -9,6 +9,15 @@ import json
 import csv
 import os
 
+def load_csv(filename):
+    filepath = os.path.join("..", "data", filename)
+    if os.path.exists(filepath):
+        with open(filepath, mode="r", encoding="utf-8") as file:
+            reader = csv.DictReader(file)
+            return [row for row in reader]
+    else:
+        return []
+    
 options = webdriver.ChromeOptions()
 options.add_argument("--start-maximized")
 options.add_argument("--incognito")
@@ -22,6 +31,8 @@ prefs = {
 options.add_experimental_option("prefs", prefs)
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+leagues = []
+clubs = []
 
 try:
     # Load data from JSON file
@@ -31,22 +42,37 @@ try:
     with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
+    # Load existing CSV data
+    try:
+        with open("data/leagues.csv", mode="r", encoding="utf-8") as file:
+            reader = csv.DictReader(file)
+            leagues = [row for row in reader]
+    
+        with open("data/clubs.csv", mode="r", encoding="utf-8") as file:
+            reader = csv.DictReader(file)
+            clubs = [row for row in reader]
+    except FileNotFoundError:
+        print("CSV not created yet")
+
     # Scrapping leagues data
     i = 0
-    leagues = []
-    clubs = []
     for league in data:
+        if any(str(row["leagueId"]) == str(league['id']) for row in clubs):
+            continue  # Skip if already exists
+
+        if league['division'] == 2:
+            continue # Skip second division leagues
+
         driver.get(league['url'])
 
-        if i == 0:
-            # Wait
-            time.sleep(2)
-            iframe = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/iframe")))
-            driver.switch_to.frame(iframe)
-            time.sleep(1)
-            accept_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="notice"]/div[3]/div[1]/div/button')))
-            accept_button.click()
-            driver.switch_to.default_content()
+        # Wait
+        time.sleep(2)
+        iframe = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "/html/body/div[2]/iframe")))
+        driver.switch_to.frame(iframe)
+        time.sleep(1)
+        accept_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="notice"]/div[3]/div[1]/div/button')))
+        accept_button.click()
+        driver.switch_to.default_content()
 
         # Exctract league data
         quantityClubs = WebDriverWait(driver, 10).until(
@@ -88,23 +114,24 @@ try:
                 "url": club_url,
             })
 
-    # Save data to CSV files
-    os.makedirs("../data", exist_ok=True)
-
-    with open("leagues.csv", mode="w", newline="", encoding="utf-8") as file:
-        writer = csv.DictWriter(file, fieldnames=leagues[0].keys())
-        writer.writeheader()
-        writer.writerows(leagues)
-
-    with open("clubs.csv", mode="w", newline="", encoding="utf-8") as file:
-        writer = csv.DictWriter(file, fieldnames=clubs[0].keys())
-        writer.writeheader()
-        writer.writerows(clubs)
+            if clubs:
+                with open("data/clubs.csv", mode="w", newline="", encoding="utf-8") as file:
+                    writer = csv.DictWriter(file, fieldnames=clubs[0].keys())
+                    writer.writeheader()
+                    writer.writerows(clubs)
+        
+        if leagues:
+            with open("data/leagues.csv", mode="w", newline="", encoding="utf-8") as file:
+                writer = csv.DictWriter(file, fieldnames=leagues[0].keys())
+                writer.writeheader()
+                writer.writerows(leagues)
+        
+        i += 1
+        if i == 10 or len(leagues) == 10:
+            break
 
     driver.close()
 
 except Exception as e:
     print(f"An error occurred: {e}")
     print("Error in the current page URL:", driver.current_url)
-    print
-    

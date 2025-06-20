@@ -1,0 +1,11 @@
+id,name,country,division,quantityClubs,quantityPlayers,medianAge,url
+1,Premier League,England,1,20,574,26.6,https://www.transfermarkt.es/premier-league/startseite/wettbewerb/GB1
+3,La Liga,Spain,1,20,499,27.4,https://www.transfermarkt.es/laliga/startseite/wettbewerb/ES1
+5,Serie A,Italy,1,20,576,26.5,https://www.transfermarkt.es/serie-a/startseite/wettbewerb/IT1
+7,Bundesliga,Germany,1,18,509,26.5,https://www.transfermarkt.es/bundesliga/startseite/wettbewerb/L1
+9,Ligue 1,France,1,18,472,26.0,https://www.transfermarkt.es/ligue-1/startseite/wettbewerb/FR1
+11,Liga Portugal,Portugal,1,18,479,26.1,https://www.transfermarkt.es/liga-portugal/startseite/wettbewerb/PO1
+13,Eredivisie,Netherlands,1,18,503,25.3,https://www.transfermarkt.es/eredivisie/startseite/wettbewerb/NL1
+15,Süper Lig,Turkey,1,19,538,26.8,https://www.transfermarkt.es/super-lig/startseite/wettbewerb/TR1
+17,Jupiler Pro League,Belgium,1,16,449,24.8,https://www.transfermarkt.es/jupiler-pro-league/startseite/wettbewerb/BE1
+19,Russian Premier League,Russia,1,16,408,26.3,https://www.transfermarkt.es/russian-premier-league/startseite/wettbewerb/RU1

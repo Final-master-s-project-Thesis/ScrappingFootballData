@@ -1,0 +1,184 @@
+id,name,numberPlayer,medianAge,leagueId,url
+1,Manchester City,32,26.9,1,https://www.transfermarkt.es/manchester-city/startseite/verein/281/saison_id/2024
+2,Arsenal FC,23,26.7,1,https://www.transfermarkt.es/fc-arsenal/startseite/verein/11/saison_id/2024
+3,Chelsea FC,35,23.1,1,https://www.transfermarkt.es/fc-chelsea/startseite/verein/631/saison_id/2024
+4,Liverpool FC,24,26.8,1,https://www.transfermarkt.es/fc-liverpool/startseite/verein/31/saison_id/2024
+5,Tottenham Hotspur,30,25.7,1,https://www.transfermarkt.es/tottenham-hotspur/startseite/verein/148/saison_id/2024
+6,Newcastle United,31,28.3,1,https://www.transfermarkt.es/newcastle-united/startseite/verein/762/saison_id/2024
+7,Manchester United,29,25.8,1,https://www.transfermarkt.es/manchester-united/startseite/verein/985/saison_id/2024
+8,Aston Villa,24,27.9,1,https://www.transfermarkt.es/aston-villa/startseite/verein/405/saison_id/2024
+9,Brighton & Hove Albion,31,26.0,1,https://www.transfermarkt.es/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2024
+10,Nottingham Forest,28,27.1,1,https://www.transfermarkt.es/nottingham-forest/startseite/verein/703/saison_id/2024
+11,Crystal Palace,29,25.9,1,https://www.transfermarkt.es/crystal-palace/startseite/verein/873/saison_id/2024
+12,Brentford FC,30,25.2,1,https://www.transfermarkt.es/fc-brentford/startseite/verein/1148/saison_id/2024
+13,AFC Bournemouth,26,25.4,1,https://www.transfermarkt.es/afc-bournemouth/startseite/verein/989/saison_id/2024
+14,West Ham United,27,28.7,1,https://www.transfermarkt.es/west-ham-united/startseite/verein/379/saison_id/2024
+15,Wolverhampton Wanderers,33,26.3,1,https://www.transfermarkt.es/wolverhampton-wanderers/startseite/verein/543/saison_id/2024
+16,Fulham FC,26,28.3,1,https://www.transfermarkt.es/fc-fulham/startseite/verein/931/saison_id/2024
+17,Everton FC,25,28.1,1,https://www.transfermarkt.es/fc-everton/startseite/verein/29/saison_id/2024
+18,Southampton FC,32,26.4,1,https://www.transfermarkt.es/fc-southampton/startseite/verein/180/saison_id/2024
+19,Leicester City,30,26.9,1,https://www.transfermarkt.es/leicester-city/startseite/verein/1003/saison_id/2024
+20,Ipswich Town,29,27.4,1,https://www.transfermarkt.es/ipswich-town/startseite/verein/677/saison_id/2024
+21,Real Madrid CF,27,26.7,3,https://www.transfermarkt.es/real-madrid/startseite/verein/418/saison_id/2024
+22,FC Barcelona,26,25.2,3,https://www.transfermarkt.es/fc-barcelona/startseite/verein/131/saison_id/2024
+23,Atlético de Madrid,25,29.2,3,https://www.transfermarkt.es/atletico-madrid/startseite/verein/13/saison_id/2024
+24,Athletic Club,24,27.5,3,https://www.transfermarkt.es/athletic-bilbao/startseite/verein/621/saison_id/2024
+25,Real Sociedad,26,25.6,3,https://www.transfermarkt.es/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2024
+26,Villarreal CF,23,27.8,3,https://www.transfermarkt.es/fc-villarreal/startseite/verein/1050/saison_id/2024
+27,Real Betis Balompié,25,28.5,3,https://www.transfermarkt.es/real-betis-sevilla/startseite/verein/150/saison_id/2024
+28,Valencia CF,26,26.1,3,https://www.transfermarkt.es/fc-valencia/startseite/verein/1049/saison_id/2024
+29,Sevilla FC,25,26.0,3,https://www.transfermarkt.es/fc-sevilla/startseite/verein/368/saison_id/2024
+30,Girona FC,26,27.7,3,https://www.transfermarkt.es/fc-girona/startseite/verein/12321/saison_id/2024
+31,RCD Espanyol,28,26.3,3,https://www.transfermarkt.es/espanyol-barcelona/startseite/verein/714/saison_id/2024
+32,RC Celta de Vigo,25,26.9,3,https://www.transfermarkt.es/celta-vigo/startseite/verein/940/saison_id/2024
+33,CA Osasuna,22,28.7,3,https://www.transfermarkt.es/ca-osasuna/startseite/verein/331/saison_id/2024
+34,UD Las Palmas,24,28.0,3,https://www.transfermarkt.es/ud-las-palmas/startseite/verein/472/saison_id/2024
+35,Getafe CF,25,27.1,3,https://www.transfermarkt.es/fc-getafe/startseite/verein/3709/saison_id/2024
+36,RCD Mallorca,25,28.7,3,https://www.transfermarkt.es/rcd-mallorca/startseite/verein/237/saison_id/2024
+37,Deportivo Alavés,24,26.9,3,https://www.transfermarkt.es/deportivo-alaves/startseite/verein/1108/saison_id/2024
+38,Rayo Vallecano,25,30.1,3,https://www.transfermarkt.es/rayo-vallecano/startseite/verein/367/saison_id/2024
+39,CD Leganés,24,28.0,3,https://www.transfermarkt.es/cd-leganes/startseite/verein/1244/saison_id/2024
+40,Real Valladolid CF,24,27.3,3,https://www.transfermarkt.es/real-valladolid/startseite/verein/366/saison_id/2024
+41,Inter de Milán,29,28.3,5,https://www.transfermarkt.es/inter-mailand/startseite/verein/46/saison_id/2024
+42,Juventus de Turín,28,26.2,5,https://www.transfermarkt.es/juventus-turin/startseite/verein/506/saison_id/2024
+43,Atalanta de Bérgamo,25,27.5,5,https://www.transfermarkt.es/atalanta-bergamo/startseite/verein/800/saison_id/2024
+44,AC Milan,25,26.4,5,https://www.transfermarkt.es/ac-mailand/startseite/verein/5/saison_id/2024
+45,SSC Nápoles,25,28.2,5,https://www.transfermarkt.es/ssc-neapel/startseite/verein/6195/saison_id/2024
+46,AS Roma,26,26.5,5,https://www.transfermarkt.es/as-rom/startseite/verein/12/saison_id/2024
+47,Bolonia,29,26.2,5,https://www.transfermarkt.es/fc-bologna/startseite/verein/1025/saison_id/2024
+48,SS Lazio,31,26.6,5,https://www.transfermarkt.es/lazio-rom/startseite/verein/398/saison_id/2024
+49,Fiorentina,25,26.1,5,https://www.transfermarkt.es/ac-florenz/startseite/verein/430/saison_id/2024
+50,Como 1907,32,26.7,5,https://www.transfermarkt.es/como-1907/startseite/verein/1047/saison_id/2024
+51,Torino FC,30,26.8,5,https://www.transfermarkt.es/fc-turin/startseite/verein/416/saison_id/2024
+52,Parma,31,25.0,5,https://www.transfermarkt.es/parma-calcio-1913/startseite/verein/130/saison_id/2024
+53,Génova,30,26.4,5,https://www.transfermarkt.es/genua-cfc/startseite/verein/252/saison_id/2024
+54,Udinese,30,26.2,5,https://www.transfermarkt.es/udinese-calcio/startseite/verein/410/saison_id/2024
+55,Hellas Verona,32,25.5,5,https://www.transfermarkt.es/hellas-verona/startseite/verein/276/saison_id/2024
+56,Empoli FC,30,25.9,5,https://www.transfermarkt.es/fc-empoli/startseite/verein/749/saison_id/2024
+57,Cagliari,24,27.3,5,https://www.transfermarkt.es/cagliari-calcio/startseite/verein/1390/saison_id/2024
+58,Venezia FC,30,26.4,5,https://www.transfermarkt.es/venezia-fc/startseite/verein/607/saison_id/2024
+59,US Lecce,34,25.1,5,https://www.transfermarkt.es/us-lecce/startseite/verein/1005/saison_id/2024
+60,AC Monza,30,26.8,5,https://www.transfermarkt.es/ac-monza/startseite/verein/2919/saison_id/2024
+61,Bayern Múnich,31,26.9,7,https://www.transfermarkt.es/fc-bayern-munchen/startseite/verein/27/saison_id/2024
+62,Bayer 04 Leverkusen,25,26.9,7,https://www.transfermarkt.es/bayer-04-leverkusen/startseite/verein/15/saison_id/2024
+63,Borussia Dortmund,31,24.8,7,https://www.transfermarkt.es/borussia-dortmund/startseite/verein/16/saison_id/2024
+64,RB Leipzig,26,25.3,7,https://www.transfermarkt.es/rasenballsport-leipzig/startseite/verein/23826/saison_id/2024
+65,Eintracht Fráncfort,27,25.6,7,https://www.transfermarkt.es/eintracht-frankfurt/startseite/verein/24/saison_id/2024
+66,VfB Stuttgart,32,24.7,7,https://www.transfermarkt.es/vfb-stuttgart/startseite/verein/79/saison_id/2024
+67,VfL Wolfsburgo,30,25.9,7,https://www.transfermarkt.es/vfl-wolfsburg/startseite/verein/82/saison_id/2024
+68,SC Friburgo,27,27.6,7,https://www.transfermarkt.es/sc-freiburg/startseite/verein/60/saison_id/2024
+69,1.FSV Mainz 05,24,27.4,7,https://www.transfermarkt.es/1-fsv-mainz-05/startseite/verein/39/saison_id/2024
+70,Borussia Mönchengladbach,26,26.0,7,https://www.transfermarkt.es/borussia-monchengladbach/startseite/verein/18/saison_id/2024
+71,TSG 1899 Hoffenheim,32,26.4,7,https://www.transfermarkt.es/tsg-1899-hoffenheim/startseite/verein/533/saison_id/2024
+72,SV Werder Bremen,27,26.8,7,https://www.transfermarkt.es/sv-werder-bremen/startseite/verein/86/saison_id/2024
+73,FC Augsburgo,27,26.5,7,https://www.transfermarkt.es/fc-augsburg/startseite/verein/167/saison_id/2024
+74,1.FC Unión Berlín,27,27.8,7,https://www.transfermarkt.es/1-fc-union-berlin/startseite/verein/89/saison_id/2024
+75,FC St. Pauli,34,26.8,7,https://www.transfermarkt.es/fc-st-pauli/startseite/verein/35/saison_id/2024
+76,1.FC Heidenheim 1846,27,27.3,7,https://www.transfermarkt.es/1-fc-heidenheim-1846/startseite/verein/2036/saison_id/2024
+77,VfL Bochum,27,27.5,7,https://www.transfermarkt.es/vfl-bochum/startseite/verein/80/saison_id/2024
+78,Holstein Kiel,29,26.5,7,https://www.transfermarkt.es/holstein-kiel/startseite/verein/269/saison_id/2024
+79,París Saint-Germain FC,25,23.7,9,https://www.transfermarkt.es/fc-paris-saint-germain/startseite/verein/583/saison_id/2024
+80,AS Mónaco,26,24.5,9,https://www.transfermarkt.es/as-monaco/startseite/verein/162/saison_id/2024
+81,LOSC Lille,26,27.4,9,https://www.transfermarkt.es/losc-lille/startseite/verein/1082/saison_id/2024
+82,Olympique de Marsella,25,27.1,9,https://www.transfermarkt.es/olympique-marseille/startseite/verein/244/saison_id/2024
+83,Racing Club de Estrasburgo,24,23.1,9,https://www.transfermarkt.es/rc-strassburg-alsace/startseite/verein/667/saison_id/2024
+84,OGC Niza,28,26.2,9,https://www.transfermarkt.es/ogc-nizza/startseite/verein/417/saison_id/2024
+85,Stade Rennais FC,30,25.4,9,https://www.transfermarkt.es/fc-stade-rennes/startseite/verein/273/saison_id/2024
+86,Olympique de Lyon,22,27.0,9,https://www.transfermarkt.es/olympique-lyon/startseite/verein/1041/saison_id/2024
+87,RC Lens,26,27.0,9,https://www.transfermarkt.es/rc-lens/startseite/verein/826/saison_id/2024
+88,FC Nantes,26,27.3,9,https://www.transfermarkt.es/fc-nantes/startseite/verein/995/saison_id/2024
+89,Toulouse FC,25,25.1,9,https://www.transfermarkt.es/fc-toulouse/startseite/verein/415/saison_id/2024
+90,Stade de Reims,25,25.0,9,https://www.transfermarkt.es/stade-reims/startseite/verein/1421/saison_id/2024
+91,Stade Brestois 29,26,27.3,9,https://www.transfermarkt.es/stade-brest-29/startseite/verein/3911/saison_id/2024
+92,AJ Auxerre,28,25.5,9,https://www.transfermarkt.es/aj-auxerre/startseite/verein/290/saison_id/2024
+93,AS Saint-Étienne,27,27.0,9,https://www.transfermarkt.es/as-saint-etienne/startseite/verein/618/saison_id/2024
+94,Le Havre AC,27,26.6,9,https://www.transfermarkt.es/ac-le-havre/startseite/verein/738/saison_id/2024
+95,Angers SCO,29,26.8,9,https://www.transfermarkt.es/sco-angers/startseite/verein/1420/saison_id/2024
+96,Montpellier HSC,27,26.4,9,https://www.transfermarkt.es/montpellier-hsc/startseite/verein/969/saison_id/2024
+97,Sporting de Lisboa,25,24.9,11,https://www.transfermarkt.es/sporting-lissabon/startseite/verein/336/saison_id/2024
+98,SL Benfica,26,25.5,11,https://www.transfermarkt.es/benfica-lissabon/startseite/verein/294/saison_id/2024
+99,FC Oporto,27,25.4,11,https://www.transfermarkt.es/fc-porto/startseite/verein/720/saison_id/2024
+100,SC Braga,26,24.9,11,https://www.transfermarkt.es/sc-braga/startseite/verein/1075/saison_id/2024
+101,FC Famalicão,27,24.1,11,https://www.transfermarkt.es/fc-famalicao/startseite/verein/3329/saison_id/2024
+102,Vitória Guimarães SC,26,26.4,11,https://www.transfermarkt.es/vitoria-guimaraes-sc/startseite/verein/2420/saison_id/2024
+103,Rio Ave FC,27,24.2,11,https://www.transfermarkt.es/rio-ave-fc/startseite/verein/2425/saison_id/2024
+104,GD Estoril Praia,22,25.6,11,https://www.transfermarkt.es/gd-estoril-praia/startseite/verein/1465/saison_id/2024
+105,CD Santa Clara,25,26.1,11,https://www.transfermarkt.es/cd-santa-clara/startseite/verein/2423/saison_id/2024
+106,FC Arouca,26,26.2,11,https://www.transfermarkt.es/fc-arouca/startseite/verein/8024/saison_id/2024
+107,Gil Vicente FC,27,25.7,11,https://www.transfermarkt.es/gil-vicente-fc/startseite/verein/2424/saison_id/2024
+108,Moreirense FC,27,26.3,11,https://www.transfermarkt.es/moreirense-fc/startseite/verein/979/saison_id/2024
+109,Casa Pia AC,28,26.5,11,https://www.transfermarkt.es/casa-pia-ac/startseite/verein/3268/saison_id/2024
+110,CD Nacional,26,26.9,11,https://www.transfermarkt.es/cd-nacional/startseite/verein/982/saison_id/2024
+111,SC Farense,26,28.1,11,https://www.transfermarkt.es/sc-farense/startseite/verein/4294/saison_id/2024
+112,Avs Futebol,28,28.7,11,https://www.transfermarkt.es/avs-futebol-sad/startseite/verein/110302/saison_id/2024
+113,Boavista FC,34,26.6,11,https://www.transfermarkt.es/boavista-porto-fc/startseite/verein/2503/saison_id/2024
+114,CF Estrela Amadora,26,26.8,11,https://www.transfermarkt.es/cf-estrela-amadora-sad/startseite/verein/2431/saison_id/2024
+115,PSV Eindhoven,27,26.1,13,https://www.transfermarkt.es/psv-eindhoven/startseite/verein/383/saison_id/2024
+116,Feyenoord,33,24.6,13,https://www.transfermarkt.es/feyenoord-rotterdam/startseite/verein/234/saison_id/2024
+117,Ajax de Ámsterdam,28,25.5,13,https://www.transfermarkt.es/ajax-amsterdam/startseite/verein/610/saison_id/2024
+118,AZ Alkmaar,30,24.1,13,https://www.transfermarkt.es/az-alkmaar/startseite/verein/1090/saison_id/2024
+119,FC Twente Enschede,26,25.4,13,https://www.transfermarkt.es/fc-twente-enschede/startseite/verein/317/saison_id/2024
+120,FC Utrecht,27,25.4,13,https://www.transfermarkt.es/fc-utrecht/startseite/verein/200/saison_id/2024
+121,SC Heerenveen,27,24.9,13,https://www.transfermarkt.es/sc-heerenveen/startseite/verein/306/saison_id/2024
+122,Go Ahead Eagles Deventer,25,24.5,13,https://www.transfermarkt.es/go-ahead-eagles-deventer/startseite/verein/1435/saison_id/2024
+123,NEC Nijmegen,28,25.6,13,https://www.transfermarkt.es/nec-nijmegen/startseite/verein/467/saison_id/2024
+124,Sparta Rotterdam,26,25.1,13,https://www.transfermarkt.es/sparta-rotterdam/startseite/verein/468/saison_id/2024
+125,FC Groningen,28,24.7,13,https://www.transfermarkt.es/fc-groningen/startseite/verein/202/saison_id/2024
+126,PEC Zwolle,26,25.3,13,https://www.transfermarkt.es/pec-zwolle/startseite/verein/1269/saison_id/2024
+127,Fortuna Sittard,27,26.1,13,https://www.transfermarkt.es/fortuna-sittard/startseite/verein/385/saison_id/2024
+128,NAC Breda,29,25.3,13,https://www.transfermarkt.es/nac-breda/startseite/verein/132/saison_id/2024
+129,Heracles Almelo,30,24.7,13,https://www.transfermarkt.es/heracles-almelo/startseite/verein/1304/saison_id/2024
+130,Willem II Tilburg,28,24.6,13,https://www.transfermarkt.es/willem-ii-tilburg/startseite/verein/403/saison_id/2024
+131,Almere City FC,28,26.3,13,https://www.transfermarkt.es/almere-city-fc/startseite/verein/723/saison_id/2024
+132,RKC Waalwijk,30,26.7,13,https://www.transfermarkt.es/rkc-waalwijk/startseite/verein/235/saison_id/2024
+133,Galatasaray,30,27.3,15,https://www.transfermarkt.es/galatasaray-istanbul/startseite/verein/141/saison_id/2024
+134,Fenerbahce,29,28.9,15,https://www.transfermarkt.es/fenerbahce-istanbul/startseite/verein/36/saison_id/2024
+135,Besiktas JK,30,26.8,15,https://www.transfermarkt.es/besiktas-istanbul/startseite/verein/114/saison_id/2024
+136,Trabzonspor,26,26.2,15,https://www.transfermarkt.es/trabzonspor/startseite/verein/449/saison_id/2024
+137,Basaksehir FK,29,26.9,15,https://www.transfermarkt.es/istanbul-basaksehir-fk/startseite/verein/6890/saison_id/2024
+138,Göztepe,27,25.9,15,https://www.transfermarkt.es/goztepe/startseite/verein/1467/saison_id/2024
+139,Kasimpasa,32,25.6,15,https://www.transfermarkt.es/kasimpasa/startseite/verein/10484/saison_id/2024
+140,Caykur Rizespor,25,26.0,15,https://www.transfermarkt.es/caykur-rizespor/startseite/verein/126/saison_id/2024
+141,Samsunspor,27,26.6,15,https://www.transfermarkt.es/samsunspor/startseite/verein/152/saison_id/2024
+142,Eyüpspor,29,28.7,15,https://www.transfermarkt.es/eyupspor/startseite/verein/7160/saison_id/2024
+143,Antalyaspor,29,27.6,15,https://www.transfermarkt.es/antalyaspor/startseite/verein/589/saison_id/2024
+144,Konyaspor,31,27.4,15,https://www.transfermarkt.es/konyaspor/startseite/verein/2293/saison_id/2024
+145,Gaziantep FK,25,27.2,15,https://www.transfermarkt.es/gaziantep-fk/startseite/verein/2832/saison_id/2024
+146,Kayserispor,29,27.2,15,https://www.transfermarkt.es/kayserispor/startseite/verein/3205/saison_id/2024
+147,Alanyaspor,24,27.0,15,https://www.transfermarkt.es/alanyaspor/startseite/verein/11282/saison_id/2024
+148,Bodrum FK,31,27.1,15,https://www.transfermarkt.es/bodrumspor/startseite/verein/44006/saison_id/2024
+149,Sivasspor,32,28.0,15,https://www.transfermarkt.es/sivasspor/startseite/verein/2381/saison_id/2024
+150,Hatayspor,26,25.2,15,https://www.transfermarkt.es/hatayspor/startseite/verein/7775/saison_id/2024
+151,Adana Demirspor,27,22.5,15,https://www.transfermarkt.es/adana-demirspor/startseite/verein/3840/saison_id/2024
+152,Club Brujas KV,26,24.5,17,https://www.transfermarkt.es/fc-brugge/startseite/verein/2282/saison_id/2024
+153,KRC Genk,25,23.1,17,https://www.transfermarkt.es/krc-genk/startseite/verein/1184/saison_id/2024
+154,Union Saint-Gilloise,26,25.3,17,https://www.transfermarkt.es/royale-union-saint-gilloise/startseite/verein/3948/saison_id/2024
+155,RSC Anderlecht,28,25.4,17,https://www.transfermarkt.es/rsc-anderlecht/startseite/verein/58/saison_id/2024
+156,KAA Gante,30,25.3,17,https://www.transfermarkt.es/kaa-gent/startseite/verein/157/saison_id/2024
+157,Royal Amberes FC,32,24.4,17,https://www.transfermarkt.es/royal-antwerpen-fc/startseite/verein/1096/saison_id/2024
+158,KVC Westerlo,30,24.8,17,https://www.transfermarkt.es/kvc-westerlo/startseite/verein/968/saison_id/2024
+159,Standard de Lieja,26,24.3,17,https://www.transfermarkt.es/standard-luttich/startseite/verein/3057/saison_id/2024
+160,Oud-Heverlee Leuven,27,25.0,17,https://www.transfermarkt.es/oud-heverlee-leuven/startseite/verein/2727/saison_id/2024
+161,R Charleroi SC,26,24.6,17,https://www.transfermarkt.es/rsc-charleroi/startseite/verein/172/saison_id/2024
+162,Círculo de Brujas,30,23.4,17,https://www.transfermarkt.es/cercle-brugge/startseite/verein/520/saison_id/2024
+163,KV Mechelen,29,25.7,17,https://www.transfermarkt.es/kv-mechelen/startseite/verein/354/saison_id/2024
+164,Sint-Truidense VV,27,25.5,17,https://www.transfermarkt.es/vv-st-truiden/startseite/verein/475/saison_id/2024
+165,KV Kortrijk,28,24.8,17,https://www.transfermarkt.es/kv-kortrijk/startseite/verein/601/saison_id/2024
+166,FCV Dender EH,29,26.1,17,https://www.transfermarkt.es/fcv-dender-eh/startseite/verein/9010/saison_id/2024
+167,Beerschot VA,30,24.5,17,https://www.transfermarkt.es/beerschot-v-a-/startseite/verein/41274/saison_id/2024
+168,Zenit de San Petersburgo,28,27.2,19,https://www.transfermarkt.es/zenit-st-petersburg/startseite/verein/964/saison_id/2024
+169,FC Spartak de Moscú,25,26.9,19,https://www.transfermarkt.es/spartak-moskau/startseite/verein/232/saison_id/2024
+170,FK Krasnodar,20,28.2,19,https://www.transfermarkt.es/fk-krasnodar/startseite/verein/16704/saison_id/2024
+171,Dinamo Moscú,26,26.0,19,https://www.transfermarkt.es/dinamo-moskau/startseite/verein/121/saison_id/2024
+172,CSKA Moscú,27,25.2,19,https://www.transfermarkt.es/zska-moskau/startseite/verein/2410/saison_id/2024
+173,Lokomotiv Moscú,24,25.1,19,https://www.transfermarkt.es/lokomotiv-moskau/startseite/verein/932/saison_id/2024
+174,FK Rostov,28,24.9,19,https://www.transfermarkt.es/fk-rostov/startseite/verein/1083/saison_id/2024
+175,Rubin Kazan,24,26.7,19,https://www.transfermarkt.es/rubin-kazan/startseite/verein/2698/saison_id/2024
+176,Krylya Sovetov Samara,29,27.1,19,https://www.transfermarkt.es/krylya-sovetov-samara/startseite/verein/2696/saison_id/2024
+177,Akhmat Grozny,26,28.1,19,https://www.transfermarkt.es/akhmat-grozny/startseite/verein/3725/saison_id/2024
+178,Akron Togliatti,25,25.6,19,https://www.transfermarkt.es/akron-togliatti/startseite/verein/71985/saison_id/2024
+179,FK Khimki,24,27.5,19,https://www.transfermarkt.es/fk-khimki/startseite/verein/3719/saison_id/2024
+180,FK Orenburg,29,24.2,19,https://www.transfermarkt.es/fk-orenburg/startseite/verein/14589/saison_id/2024
+181,Dinamo Makhachkala,25,24.6,19,https://www.transfermarkt.es/fk-makhachkala/startseite/verein/75231/saison_id/2024
+182,FC Pari Nizhniy Novgorod,25,25.6,19,https://www.transfermarkt.es/fk-nizhny-novgorod/startseite/verein/49702/saison_id/2024
+183,Fakel Voronezh,23,28.6,19,https://www.transfermarkt.es/fakel-voronezh/startseite/verein/1124/saison_id/2024
