@@ -8,15 +8,6 @@ import time
 import json
 import csv
 import os
-
-def load_csv(filename):
-    filepath = os.path.join("..", "data", filename)
-    if os.path.exists(filepath):
-        with open(filepath, mode="r", encoding="utf-8") as file:
-            reader = csv.DictReader(file)
-            return [row for row in reader]
-    else:
-        return []
     
 options = webdriver.ChromeOptions()
 options.add_argument("--start-maximized")
@@ -64,6 +55,11 @@ try:
             continue # Skip second division leagues
 
         driver.get(league['url'])
+
+        if "503 Service Unavailable" in driver.page_source:
+            print("Página bloqueada temporalmente. Esperando...")
+            time.sleep(60)
+            driver.refresh()
 
         # Wait
         time.sleep(2)
